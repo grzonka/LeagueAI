@@ -1,4 +1,7 @@
 # LeagueAI
+
+forked from Oleffa/LeagueAI
+
 Implementation of an A.I. Player for the videogame League of Legends based on Image Recognition using PyTorch
 
 Demo Video: https://youtu.be/iB4PoNJuXzc
